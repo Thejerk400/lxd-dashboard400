@@ -1,4 +1,4 @@
-FROM ubuntu:20.04
+FROM Debian 11 Bullseye
 
 #Setting ENV variables
 ENV DEBIAN_FRONTEND=noninteractive
